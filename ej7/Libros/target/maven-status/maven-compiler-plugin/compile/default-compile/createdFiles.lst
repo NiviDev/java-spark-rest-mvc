@@ -1,0 +1,5 @@
+com/nivi/libros/Libros.class
+com/nivi/libros/Autor.class
+com/nivi/libros/AutorControlador.class
+com/nivi/libros/AutorDAO.class
+com/nivi/libros/Libro.class
